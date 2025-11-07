@@ -71,9 +71,9 @@ I am a passionate **Data Analyst** specializing in turning raw data into actiona
 ### 📊 GitHub Stats & Motions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&icon_color=00BFFF&text_color=FFF&title_color=00BFFF&bg_color=0d1117" alt="Khuzima's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MKS-24&show_icons=true&theme=dark&icon_color=00BFFF&text_color=FFF&title_color=00BFFF&bg_color=0d1117" alt="Khuzima's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&text_color=FFF&title_color=00BFFF&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKS-24&layout=compact&theme=dark&text_color=FFF&title_color=00BFFF&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 ---
