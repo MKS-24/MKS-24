@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1d2b,100:e8481c&height=180&section=header&text=Khuzi&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1d2b,100:e8481c&height=180&section=header&text=Khuzaima&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E8481C&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Practitioner;Turning+raw+data+into+actionable+insights;Building+ML+models+%26+automations" alt="Typing SVG"/>
