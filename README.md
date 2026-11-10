@@ -9,25 +9,25 @@
 </p>
 
 <p align="center">
-  <a href="https://my-port-folio-dusky-chi.vercel.app/"><b>🌐 View My Portfolio</b></a>
+  <a href="https://my-port-folio-dusky-chi.vercel.app/"><b>View My Portfolio</b></a>
 </p>
 
 ---
 
-## 🔍 About Me
+## About Me
 
-- 🎓 BS Artificial Intelligence student at **Dawood University of Engineering & Technology (DUET)**
-- 📜 Data Science certified, **NED University**
-- 💼 Internships in **Data Analytics** and **Data & AI Automation**
-- 📊 Freelancer on **Fiverr** and **Upwork**, specializing in **data cleaning** and **Power BI dashboards**
-- 🎥 Founder of **[Programify](https://programify.online)**, teaching AI, Python, SQL and automation in Urdu/Hindi
-- 🛠️ I regularly build and share AI and automation projects publicly
-- 🌐 Portfolio: **[my-port-folio-dusky-chi.vercel.app](https://my-port-folio-dusky-chi.vercel.app/)**
-- 📍 Based in Pakistan 🇵🇰
+- BS Artificial Intelligence student at **Dawood University of Engineering & Technology (DUET)**
+- Data Science certified, **NED University**
+- Internships in **Data Analytics** and **Data & AI Automation**
+- Freelancer on **Fiverr** and **Upwork**, specializing in **data cleaning** and **Power BI dashboards**
+- Founder of **[Programify](https://programify.online)**, teaching AI, Python, SQL and automation in Urdu/Hindi
+- I regularly build and share AI and automation projects publicly
+- Portfolio: **[my-port-folio-dusky-chi.vercel.app](https://my-port-folio-dusky-chi.vercel.app/)**
+- Based in Pakistan
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages & Querying**
 
@@ -60,18 +60,7 @@
 
 ---
 
-## 🌐 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-E8481C?style=for-the-badge&logo=vercel&logoColor=white)](https://my-port-folio-dusky-chi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-khuzaima-siddiqui-567981334)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/100049786628028)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/your-username)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/your-profile)
-[![Programify](https://img.shields.io/badge/Programify-E8481C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://programify.online)
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mks-24&bg_color=1c1d2b&title_color=e8481c&text_color=c9d1d9&icon_color=f5821f&border_color=3a3b4d&show_icons=true&hide_border=false" height="170" />
