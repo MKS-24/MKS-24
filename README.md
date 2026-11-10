@@ -62,11 +62,15 @@
 
 ## GitHub Stats
 
+<!-- Stats + Top Languages cards: public Vercel instance is unreliable. Re-enable after self-hosting.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mks-24&bg_color=1c1d2b&title_color=e8481c&text_color=c9d1d9&icon_color=f5821f&border_color=3a3b4d&show_icons=true&hide_border=false" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mks-24&bg_color=1c1d2b&title_color=e8481c&text_color=c9d1d9&icon_color=f5821f&border_color=3a3b4d&hide_border=false&layout=compact" height="170" />
 </p>
+-->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mks-24&background=1c1d2b&ring=e8481c&fire=f5821f&currStreakNum=ffffff&currStreakLabel=e8481c&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e&stroke=3a3b4d&border=3a3b4d&hide_border=false" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1d2b,100:e8481c&height=140&section=footer" width="100%"/>
